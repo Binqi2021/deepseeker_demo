@@ -35,6 +35,14 @@
       "learning_rate": 1.1111111111111112e-05,
       "loss": 0.0777,
       "step": 40
+    },
+    {
+      "epoch": 1.0,
+      "eval_loss": 0.08832047134637833,
+      "eval_runtime": 19.6183,
+      "eval_samples_per_second": 0.255,
+      "eval_steps_per_second": 0.255,
+      "step": 45
     }
   ],
   "logging_steps": 10,
